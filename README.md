@@ -11,6 +11,10 @@ Voici la liste des différents fichiers proposés dans Corail-DarkSlateBlue :
 			<th>Description</th>	
 		</tr>
 		<tr>
+			<td><b>csv2sql.php</b></td>
+			<td>Cette commande permet de convertir un fichier source d'extension .csv en format .sql</td>
+		</tr>		
+		<tr>
 			<td><b>csv2xml.php</b></td>
 			<td>Cette commande permet de convertir un fichier source d'extension .csv en format .xml</td>
 		</tr>
