@@ -1,5 +1,5 @@
 # Corail-DarkSlateBlue
-Corail-DarkSlateBlue est un suite d'utilitaires écrit en PHP. Dans le même ordre d'idée que le projet Corail contenant une suite d'utilitaire le projet Corail-DarkSlateBlue ce veut uniquement des utilitaires proposés pour le langage de programmation. De plus, il s'agit de script ayant pour but d'être exécuter en ligne de commande et non pas pour une page Web.
+Corail-DarkSlateBlue est un suite d'utilitaires écrit en PHP. Dans le même ordre d'idée que le projet <a href="https://github.com/gladir/corail">Corail</a> contenant une suite d'utilitaire le projet Corail-DarkSlateBlue ce veut uniquement des utilitaires proposés pour le langage de programmation. De plus, il s'agit de script ayant pour but d'être exécuter en ligne de commande et non pas pour une page Web.
 
 <h2>Liste des fichiers</h2>
 
